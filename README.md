@@ -40,3 +40,10 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
 ---  
 
 **V 0.1 - (2025 09 02) - Initialization**  
+
+---
+  
+## ✨ Preview
+
+![figurines_demo](https://github.com/user-attachments/assets/5f22de94-6aa5-4df0-b0f4-398f18d973a3)
+  
