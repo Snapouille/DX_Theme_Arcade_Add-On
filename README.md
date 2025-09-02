@@ -1,7 +1,7 @@
 <img width="862" height="234" alt="add on Arcade logo" src="https://github.com/user-attachments/assets/9b114e12-b00b-4eb8-800c-c8a37859022d" />  
-  
+---  
 <img width="2000" height="481" alt="background" src="https://github.com/user-attachments/assets/bc1fe8b0-96c3-40ae-a11e-36d0aee5864c" />  
-  
+---  
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
 This add-on gives you access to **over 1,400 arcade cabinets** that will appear in the game carousel view of the Animatics-DX theme. This applies only to arcade systems: MAME, FBNeo, Model 2 and 3, Naomi 1 and 2, Atomiswave.
@@ -16,6 +16,8 @@ All credits for the cabinet skeleton and control panels go to gjsmsmith and Davb
 
  🎮 <ins>Enjoy your arcade collection in style!</ins>    
   
+---
+  
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
 Cet add-on vous donne accès à **plus de 1400 bornes d'arcade** qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Cela concerne uniquement les systèmes Arcades : Mame, FBNeo, Model 2 et 3, Noami 1 et 2, Atomiswave. 
@@ -28,8 +30,10 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\  
   
- 🎮 <ins> Profitez de votre collection arcade avec style !</ins>    
-
+ 🎮 <ins> Profitez de votre collection arcade avec style !</ins>  
+  
+---
+  
 ## ___________________________________________
   
 **HOW TO DOWNLOAD? / COMMENT TELECHARGER ?**  
