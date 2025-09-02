@@ -33,11 +33,12 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
  🎮 <ins> Profitez de votre collection arcade avec style !</ins>  
   
   
-
+---  
   
 **HOW TO DOWNLOAD? / COMMENT TELECHARGER ?**  
     Click to Code top right and download ZIP  
     Cliquer sur Code en haut à droite et download ZIP  
- 
+
+---  
 
 **V 0.1 - (2025 09 02) - Initialization**  
