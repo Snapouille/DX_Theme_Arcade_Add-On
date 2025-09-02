@@ -9,6 +9,8 @@ To enable the display, simply set the option * *"Arcade add-on installed?"* * to
 
 All credits for the cabinet skeleton and control panels go to gjsmsmith and Davbro from the CoinOps team. I personally added the marquees and bezels, as well as made a few minor adjustments.
 
+<ins> **HOW TO DOWNLOAD?** </ins> --> Click to Code top right and download ZIP  
+
 ***You have to put the folder "zzz-DX_Add-On" directly in themes folder:***
 
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
@@ -25,6 +27,8 @@ Pour activé l'affichage il vous suffit de passer l'option * *"add-on Arcade ins
 
 Tout les crédits du squelette de la borne et des controls panels vont à gjsmsmith et Davbro de la team coinops. J'ai rajouté pour ma part les marquees et les bezels et fait quelque autres modifications mineures.
 
+<ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur Code en haut à droite et download ZIP  
+
 ***Vous devez placer le dossier "zzz-DX_Add-On" directement dans le dossier des thèmes:***
  
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
@@ -32,12 +36,6 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
   
  🎮 Profitez de votre collection arcade avec style !
   
-  
----  
-  
-<ins> **HOW TO DOWNLOAD? / COMMENT TELECHARGER ?** </ins>
-    Click to Code top right and download ZIP  
-    Cliquer sur Code en haut à droite et download ZIP  
 
 ---  
 
