@@ -5,7 +5,7 @@
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
 This add-on gives you access to **over 1,400 arcade cabinets** that will appear in the game carousel view of the Animatics-DX theme. This applies only to arcade systems: MAME, FBNeo, Model 2 and 3, Naomi 1 and 2, Atomiswave.
-To enable the display, simply set the option "Arcade add-on installed?" to **YES**.
+To enable the display, simply set the option * *"Arcade add-on installed?"* * to **YES**.
 
 All credits for the cabinet skeleton and control panels go to gjsmsmith and Davbro from the CoinOps team. I personally added the marquees and bezels, as well as made a few minor adjustments.
 
@@ -14,12 +14,12 @@ All credits for the cabinet skeleton and control panels go to gjsmsmith and Davb
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
 
-Enjoy your arcade collection in style! 🎮  
+<ins> Enjoy your arcade collection in style! 🎮 </ins>    
   
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
 Cet add-on vous donne accès à **plus de 1400 bornes d'arcade** qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Cela concerne uniquement les systèmes Arcades : Mame, FBNeo, Model 2 et 3, Noami 1 et 2, Atomiswave. 
-Pour activé l'affichage il vous suffit de passer l'option "add-on arcade installé ?" sur OUI. 
+Pour activé l'affichage il vous suffit de passer l'option * *"add-on Arcade installé ?"* * sur **OUI**. 
 
 Tout les crédits du squelette de la borne et des controls panels vont à gjsmsmith et Davbro de la team coinops. J'ai rajouté pour ma part les marquees et les bezels et fait quelque autres modifications mineures.
 
@@ -28,7 +28,7 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\  
   
-Profitez de votre collection arcade avec style ! 🎮    
+<ins> Profitez de votre collection arcade avec style ! 🎮 </ins>    
 
 ## ___________________________________________
   
