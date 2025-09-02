@@ -1,10 +1,6 @@
 <img width="862" height="234" alt="add on Arcade logo" src="https://github.com/user-attachments/assets/9b114e12-b00b-4eb8-800c-c8a37859022d" />  
   
----
-  
 <img width="2000" height="481" alt="background" src="https://github.com/user-attachments/assets/bc1fe8b0-96c3-40ae-a11e-36d0aee5864c" />  
-  
----
   
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
@@ -36,13 +32,12 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
   
  🎮 <ins> Profitez de votre collection arcade avec style !</ins>  
   
----
   
-## ___________________________________________
+## ____________________________________________________
   
 **HOW TO DOWNLOAD? / COMMENT TELECHARGER ?**  
     Click to Code top right and download ZIP  
     Cliquer sur Code en haut à droite et download ZIP  
  
-## ___________________________________________
+## ____________________________________________________
 **V 0.1 - (2025 09 02) - Initialization**  
