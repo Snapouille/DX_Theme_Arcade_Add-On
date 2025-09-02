@@ -9,7 +9,8 @@ To enable the display, simply set the option * *"Arcade add-on installed?"* * to
 
 All credits for the cabinet skeleton and control panels go to gjsmsmith and Davbro from the CoinOps team. I personally added the marquees and bezels, as well as made a few minor adjustments.
 
-<ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="57" height="21" alt="2025-09-02 14_20_01-Snapouille_DX_Theme_Arcade_Add-On_ Cabinets add-on for Animatics-DX Theme (Batoc" src="https://github.com/user-attachments/assets/c72d02c0-e97b-4910-ba1f-1064c1abd76a" /> top right and download ZIP  
+<ins> **HOW TO DOWNLOAD?** </ins> --> Click to <img width="114" height="42" alt="2025-09-02 14_22_12-Snapouille_DX_Theme_Arcade_Add-On_ Cabinets add-on for Animatics-DX Theme (Batoc" src="https://github.com/user-attachments/assets/ce7ddd0b-47e7-438d-8e2b-a00464491d50" />
+ top right and download ZIP  
 
 ***You have to put the folder "zzz-DX_Add-On" directly in themes folder:***
 
@@ -27,7 +28,7 @@ Pour activé l'affichage il vous suffit de passer l'option * *"add-on Arcade ins
 
 Tout les crédits du squelette de la borne et des controls panels vont à gjsmsmith et Davbro de la team coinops. J'ai rajouté pour ma part les marquees et les bezels et fait quelque autres modifications mineures.
 
-<ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur <img width="57" height="21" alt="2025-09-02 14_20_01-Snapouille_DX_Theme_Arcade_Add-On_ Cabinets add-on for Animatics-DX Theme (Batoc" src="https://github.com/user-attachments/assets/d69270e6-38b0-4d90-ba15-9d7c0d774bc5" /> en haut à droite et download ZIP  
+<ins> **COMMENT TELECHARGER ?** </ins> --> Cliquer sur <img width="114" height="42" alt="2025-09-02 14_22_12-Snapouille_DX_Theme_Arcade_Add-On_ Cabinets add-on for Animatics-DX Theme (Batoc" src="https://github.com/user-attachments/assets/534e3f2e-e4a4-4c18-8622-b315904ea384" /> en haut à droite et download ZIP  
 
 ***Vous devez placer le dossier "zzz-DX_Add-On" directement dans le dossier des thèmes:***
  
