@@ -14,7 +14,7 @@ All credits for the cabinet skeleton and control panels go to gjsmsmith and Davb
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
 
-<ins> Enjoy your arcade collection in style! 🎮 </ins>    
+ 🎮 <ins>Enjoy your arcade collection in style!</ins>    
   
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
@@ -28,7 +28,7 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\  
   
-<ins> Profitez de votre collection arcade avec style ! 🎮 </ins>    
+ 🎮 <ins> Profitez de votre collection arcade avec style !</ins>    
 
 ## ___________________________________________
   
