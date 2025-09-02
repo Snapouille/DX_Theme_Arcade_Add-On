@@ -14,7 +14,7 @@ All credits for the cabinet skeleton and control panels go to gjsmsmith and Davb
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
 
- 🎮 <ins>Enjoy your arcade collection in style!</ins>    
+ 🎮 Enjoy your arcade collection in style!
   
 ---
   
@@ -30,12 +30,12 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\  
   
- 🎮 <ins> Profitez de votre collection arcade avec style !</ins>  
+ 🎮 Profitez de votre collection arcade avec style !
   
   
 ---  
   
-**HOW TO DOWNLOAD? / COMMENT TELECHARGER ?**  
+<ins> **HOW TO DOWNLOAD? / COMMENT TELECHARGER ?** </ins>
     Click to Code top right and download ZIP  
     Cliquer sur Code en haut à droite et download ZIP  
 
