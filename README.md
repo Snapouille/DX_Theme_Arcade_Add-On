@@ -1,12 +1,7 @@
-<img width="862" height="234" alt="add on Arcade logo" src="https://github.com/user-attachments/assets/9b114e12-b00b-4eb8-800c-c8a37859022d" />
-
-<img width="2000" height="481" alt="background" src="https://github.com/user-attachments/assets/bc1fe8b0-96c3-40ae-a11e-36d0aee5864c" />  
-
-
+<img width="862" height="234" alt="add on Arcade logo" src="https://github.com/user-attachments/assets/9b114e12-b00b-4eb8-800c-c8a37859022d" />  
   
-<img width="1506" height="365" alt="add on Arcade" src="https://github.com/user-attachments/assets/c6431dd6-8c3b-4439-a0d4-3dad097f3422" />
-
-
+<img width="2000" height="481" alt="background" src="https://github.com/user-attachments/assets/bc1fe8b0-96c3-40ae-a11e-36d0aee5864c" />  
+  
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
 This add-on gives you access to **over 1,400 arcade cabinets** that will appear in the game carousel view of the Animatics-DX theme. This applies only to arcade systems: MAME, FBNeo, Model 2 and 3, Naomi 1 and 2, Atomiswave.
