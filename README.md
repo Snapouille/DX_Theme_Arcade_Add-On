@@ -35,11 +35,6 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
     BATOCERA:     \userdata\themes\  
   
  🎮 Profitez de votre collection arcade avec style !
-  
-
----  
-
-**V 0.1 - (2025 09 02) - Initialization**  
 
 ---
   
@@ -47,3 +42,7 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
 
 ![figurines_demo](https://github.com/user-attachments/assets/5f22de94-6aa5-4df0-b0f4-398f18d973a3)
   
+---  
+
+**V 0.1 - (2025 09 02) - Initialization**  
+**V 0.2 - (2025 09 15) - Add 165 new marquee** 
