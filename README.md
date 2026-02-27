@@ -2,7 +2,7 @@
   
 <img width="2000" height="481" alt="background" src="https://github.com/user-attachments/assets/bc1fe8b0-96c3-40ae-a11e-36d0aee5864c" />  
 
-# Version 0.3 (2025 12 04)
+# Version 0.4 (2026 02 27)
   
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
@@ -49,3 +49,4 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
 **V 0.1 - (2025 09 02) - Initialization**  
 **V 0.2 - (2025 09 15) - Add 165 new marquee** (thanks to Zaldred)  
 **V 0.3 - (2025 12 04) - Add 107 new marquee** (thanks to Zaldred)  
+**V 0.4 - (2026 02 27) - Add 123 new marquee** (thanks to Zaldred)  
