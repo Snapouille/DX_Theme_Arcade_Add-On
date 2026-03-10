@@ -49,5 +49,5 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
 **V 0.1 - (2025 09 02) - Initialization**  
 **V 0.2 - (2025 09 15) - Add 165 new marquee** (thanks to Zaldred)  
 **V 0.3 - (2025 12 04) - Add 107 new marquee** (thanks to Zaldred)  
-**V 0.4 - (2026 02 27) - Add 410 new marquee** (thanks to Zaldred) 
-**V 0.5 - (2026 03 10) - Add 236 new marquee** (thanks to Zaldred)  
+**V 0.4 - (2026 02 27) - Add 410 new marquee** (thanks to Zaldred)   
+**V 0.5 - (2026 03 10) - Add 236 new marquee** (thanks to Zaldred)    
