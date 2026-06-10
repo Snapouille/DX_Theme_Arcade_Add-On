@@ -2,11 +2,11 @@
   
 <img width="2000" height="481" alt="background" src="https://github.com/user-attachments/assets/bc1fe8b0-96c3-40ae-a11e-36d0aee5864c" />  
 
-# Version 0.5 (2026 03 10)
+# Version 0.6 (2026 06 10)
   
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) 
 
-This add-on gives you access to **over 1,400 arcade cabinets** that will appear in the game carousel view of the Animatics-DX theme. This applies only to arcade systems: MAME, FBNeo, Model 2 and 3, Naomi 1 and 2, Atomiswave.
+This add-on gives you access to **over 1,400 arcade cabinets and 1875 marquee** that will appear in the game carousel view of the Animatics-DX theme. This applies only to arcade systems: MAME, FBNeo, Model 2 and 3, Naomi 1 and 2, Atomiswave.
 To enable the display, simply set the option * *"Arcade add-on installed?"* * to **YES**.
 
 All credits for the cabinet skeleton and control panels go to gjsmsmith and Davbro from the CoinOps team. I personally added the marquees and bezels, as well as made a few minor adjustments.
@@ -24,7 +24,7 @@ All credits for the cabinet skeleton and control panels go to gjsmsmith and Davb
   
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) 
 
-Cet add-on vous donne accès à **plus de 1400 bornes d'arcade** qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Cela concerne uniquement les systèmes Arcades : Mame, FBNeo, Model 2 et 3, Noami 1 et 2, Atomiswave. 
+Cet add-on vous donne accès à **plus de 1400 bornes d'arcade et 1875 marquee** qui s'afficheront dans la vue gamecarousel du thème Animatics-DX. Cela concerne uniquement les systèmes Arcades : Mame, FBNeo, Model 2 et 3, Noami 1 et 2, Atomiswave. 
 Pour activé l'affichage il vous suffit de passer l'option * *"add-on Arcade installé ?"* * sur **OUI**. 
 
 Tout les crédits du squelette de la borne et des controls panels vont à gjsmsmith et Davbro de la team coinops. J'ai rajouté pour ma part les bezels et les marquees ainsi que quelque autres modifications mineures.
@@ -47,7 +47,8 @@ Tout les crédits du squelette de la borne et des controls panels vont à gjsmsm
 ---  
 
 **V 0.1 - (2025 09 02) - Initialization**  
-**V 0.2 - (2025 09 15) - Add 165 new marquee** (thanks to Zaldred)  
-**V 0.3 - (2025 12 04) - Add 107 new marquee** (thanks to Zaldred)  
-**V 0.4 - (2026 02 27) - Add 410 new marquee** (thanks to Zaldred)   
-**V 0.5 - (2026 03 10) - Add 236 new marquee** (thanks to Zaldred)    
+**V 0.2 - (2025 09 15) - Add 165 new marquee** (Zaldred)  
+**V 0.3 - (2025 12 04) - Add 107 new marquee** (Zaldred)  
+**V 0.4 - (2026 02 27) - Add 410 new marquee** (Zaldred)   
+**V 0.5 - (2026 03 10) - Add 236 new marquee** (Zaldred)    
+**V 0.6 - (2026 06 10) - Add 306 new marquee** (Zaldred)    
